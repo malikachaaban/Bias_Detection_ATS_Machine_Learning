@@ -6,8 +6,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/malikachaaban/Bias_Detection_ATS_Machine_Learning?style=for-the-badge)](https://github.com/malikachaaban/Bias_Detection_ATS_Machine_Learning/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/malikachaaban/Bias_Detection_ATS_Machine_Learning?style=for-the-badge)](https://github.com/malikachaaban/Bias_Detection_ATS_Machine_Learning/network)
-[![GitHub issues](https://img.shields.io/github/issues/malikachaaban/Bias_Detection_ATS_Machine_Learning?style=for-the-the-badge)](https://github.com/malikachaaban/Bias_Detection_ATS_Machine_Learning/issues)
-[![GitHub license](https://img.shields.io/github/license/malikachaaban/Bias_Detection_ATS_Machine_Learning?style=for-the-badge)](LICENSE)
 
 **An intelligent system to identify and mitigate biases in Applicant Tracking Systems (ATS) using machine learning techniques.**
 
